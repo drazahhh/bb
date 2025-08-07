@@ -117,6 +117,7 @@ return {
   ["1101"]="Save the progress?",
   ["1102"]="Save",
   ["1103"]="Rechallenge",
+  ["1104"]="Please download the current resources in order to enter (Size:{1} Mb)",
   ["111"]="Bonus",
   ["112"]="Basic DMG",
   ["113"]="Special DMG",

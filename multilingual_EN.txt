@@ -9001,6 +9001,7 @@ All monsters on this floor deal 20% more damage until this elite enemy is defeat
   ["17453"]="Torrent Blade (Combo) DMG",
   ["17454"]="Page Reorganization Ⅲ",
   ["17458"]="This star, always has a great time by the sea.",
+  ["17459"]="Balalaika's personal teaching and training is about to begin. Get ready for battle.",
   ["1746"]="Close",
   ["1747"]="Previous page",
   ["1748"]="Support",
